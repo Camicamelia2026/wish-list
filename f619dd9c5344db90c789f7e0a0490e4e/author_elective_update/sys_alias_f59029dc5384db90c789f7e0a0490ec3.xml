@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <description/>
+        <id>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Credentials - Camicamelia2026</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:08:27</sys_created_on>
+        <sys_id>f59029dc5384db90c789f7e0a0490ec3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</sys_name>
+        <sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope>
+        <sys_update_name>sys_alias_f59029dc5384db90c789f7e0a0490ec3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:08:27</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_translated_text action="DELETE" query="documentkey=f59029dc5384db90c789f7e0a0490ec3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</application>
+        <file_path/>
+        <instance_id>4bb4ed08dbf2fdd439639027c596191c</instance_id>
+        <instance_name>dev223297</instance_name>
+        <merge_base/>
+        <name>sys_alias_f59029dc5384db90c789f7e0a0490ec3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template><connection_type>http_connection</connection_type><description/><id>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>GitHub Credentials - Camicamelia2026</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-16 11:08:27</sys_created_on><sys_id>f59029dc5384db90c789f7e0a0490ec3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</sys_name><sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package><sys_policy/><sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope><sys_update_name>sys_alias_f59029dc5384db90c789f7e0a0490ec3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-16 11:08:27</sys_updated_on><type>connection</type></sys_alias><sys_translated_text action="delete_multiple" query="documentkey=f59029dc5384db90c789f7e0a0490ec3"/></record_update>]]></payload>
+        <payload_hash>-1137559174</payload_hash>
+        <record_name>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</record_name>
+        <reverted_from/>
+        <source>7e19dd9c5344db90c789f7e0a0490e51</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:08:27</sys_created_on>
+        <sys_id>00a1a19053c4db90c789f7e0a0490ee4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1446626d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:08:27</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>cca1a190ebc4db906628f2ad7a61aae2</update_guid>
+        <update_guid_history>cca1a190ebc4db906628f2ad7a61aae2:-1137559174</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:09:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>de642d135f42435cbe0093d52be08681</sys_id>
+        <sys_metadata>f59029dc5384db90c789f7e0a0490ec3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1994375_wish_l_1.GitHub_Credentials___Camicamelia2026</sys_name>
+        <sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope>
+        <sys_scope_delete display_value="">176713ff8ba4410cadcd9e131905a869</sys_scope_delete>
+        <sys_update_name>sys_alias_f59029dc5384db90c789f7e0a0490ec3</sys_update_name>
+        <sys_update_version display_value="sys_alias_f59029dc5384db90c789f7e0a0490ec3">00a1a19053c4db90c789f7e0a0490ee4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:09:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
