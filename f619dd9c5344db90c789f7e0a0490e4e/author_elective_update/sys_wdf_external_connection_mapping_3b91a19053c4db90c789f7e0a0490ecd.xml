@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_wdf_external_connection_mapping">
+    <sys_wdf_external_connection_mapping action="DELETE">
+        <asset_id>f59029dc5384db90c789f7e0a0490ec3</asset_id>
+        <connection_name>GitHub Credentials - Camicamelia2026</connection_name>
+        <connection_type>outbound</connection_type>
+        <connector_type>7bf7f2123decf210f87762d639ed247b</connector_type>
+        <external_system/>
+        <sys_class_name>sys_wdf_external_connection_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:08:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3b91a19053c4db90c789f7e0a0490ecd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub Credentials - Camicamelia2026</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope>
+        <sys_update_name>sys_wdf_external_connection_mapping_3b91a19053c4db90c789f7e0a0490ecd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:08:27</sys_updated_on>
+        <table_name>sys_alias</table_name>
+    </sys_wdf_external_connection_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</application>
+        <file_path/>
+        <instance_id>4bb4ed08dbf2fdd439639027c596191c</instance_id>
+        <instance_name>dev223297</instance_name>
+        <merge_base/>
+        <name>sys_wdf_external_connection_mapping_3b91a19053c4db90c789f7e0a0490ecd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_wdf_external_connection_mapping"><sys_wdf_external_connection_mapping action="INSERT_OR_UPDATE"><asset_id>f59029dc5384db90c789f7e0a0490ec3</asset_id><connection_name>GitHub Credentials - Camicamelia2026</connection_name><connection_type>outbound</connection_type><connector_type>7bf7f2123decf210f87762d639ed247b</connector_type><external_system/><sys_class_name>sys_wdf_external_connection_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-16 11:08:27</sys_created_on><sys_domain>global</sys_domain><sys_id>3b91a19053c4db90c789f7e0a0490ecd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GitHub Credentials - Camicamelia2026</sys_name><sys_overrides/><sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package><sys_policy/><sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope><sys_update_name>sys_wdf_external_connection_mapping_3b91a19053c4db90c789f7e0a0490ecd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-16 11:08:27</sys_updated_on><table_name>sys_alias</table_name></sys_wdf_external_connection_mapping></record_update>]]></payload>
+        <payload_hash>-59054747</payload_hash>
+        <record_name>GitHub Credentials - Camicamelia2026</record_name>
+        <reverted_from/>
+        <source>7e19dd9c5344db90c789f7e0a0490e51</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:08:27</sys_created_on>
+        <sys_id>84a1a19053c4db90c789f7e0a0490ee0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a14466269a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:08:27</sys_updated_on>
+        <type>Connection Mapping</type>
+        <update_guid>bf91a19074c4db9076231f8d9cee41d2</update_guid>
+        <update_guid_history>bf91a19074c4db9076231f8d9cee41d2:-59054747</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 11:09:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_wdf_external_connection_mapping">sys_wdf_external_connection_mapping</sys_db_object>
+        <sys_id>16d5c4ab8e674b28aeddf38458380e10</sys_id>
+        <sys_metadata>3b91a19053c4db90c789f7e0a0490ecd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub Credentials - Camicamelia2026</sys_name>
+        <sys_package display_value="Wish List" source="x_1994375_wish_l_1">f619dd9c5344db90c789f7e0a0490e4e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">f619dd9c5344db90c789f7e0a0490e4e</sys_scope>
+        <sys_scope_delete display_value="">176713ff8ba4410cadcd9e131905a869</sys_scope_delete>
+        <sys_update_name>sys_wdf_external_connection_mapping_3b91a19053c4db90c789f7e0a0490ecd</sys_update_name>
+        <sys_update_version display_value="sys_wdf_external_connection_mapping_3b91a19053c4db90c789f7e0a0490ecd">84a1a19053c4db90c789f7e0a0490ee0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 11:09:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
